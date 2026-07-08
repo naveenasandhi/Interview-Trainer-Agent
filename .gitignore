@@ -1,0 +1,10 @@
+.env
+*.key
+*.pem
+*.crt
+
+.vscode/
+.idea/
+
+__pycache__/
+node_modules/
